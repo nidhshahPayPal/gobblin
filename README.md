@@ -8,7 +8,7 @@
 
 Apache Gobblin is a highly scalable data management solution for structured and byte-oriented data in heterogeneous data ecosystems. 
 
-### Capabilities
+### Capabilitie testings
 - Ingestion and export of data from a variety of sources and sinks into and out of the data lake. Gobblin is optimized and designed for ELT patterns with inline transformations on ingest (small t).
 - Data Organization within the lake (e.g. compaction, partitioning, deduplication)
 - Lifecycle Management of data within the lake (e.g. data retention)
